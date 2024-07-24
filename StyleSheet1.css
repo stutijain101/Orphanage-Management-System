@@ -1,0 +1,116 @@
+﻿body,form {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(230, 212, 111);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:12px;
+}
+
+.clear
+{
+    clear:both;
+}
+.menu{
+    background-color: black;
+    width: 100%;
+    margin:0px 0px 10px;
+    padding: 0px;
+    height:80px;
+    color: rgb(255 216 0);
+    border-radius:5px 5px 5px 5px;
+
+}
+.menu ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    position:absolute;
+
+}
+.menu ul li{
+    float:left;
+    margin-top:20px;
+}
+.menu ul li a{
+    width:150px;
+    color:white;
+    display:block;
+    text-decoration:none;
+    font-size:20px;
+    text-align:center;
+    padding:10px;
+    border-radius:10px;
+    font-family:Century 'MS Gothic';
+    font-weight:bold;
+}
+.menu a:hover{
+    background:rgb(255, 216, 0);
+}
+.menu ul li ul{
+    background:black;
+    display:none;
+}
+.menu ul li ul li{
+    float:none;
+
+}
+.menu ul li:hover ul{
+    display:block;
+
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer .foot{
+    background-color:black;
+}
+.row{
+    display:flex;
+    justify-content:space-between;
+    padding:40px 100px;
+}
+.footer-col ul{
+    list-style:none;
+
+}
+.footer-col h4{
+    color:white;
+    margin-bottom:25px;
+    font-size:22px;
+    position:relative;
+    font-family:Arial;
+}
+.footer-col h4::before{
+    content:'';
+    width:90px;
+    height:2px;
+    position:absolute;
+    background-color:yellow;
+    bottom: -10px;
+
+}
+.footer-col ul li{
+    padding:10px 0;
+}
+.footer-col ul li a{
+    color:white;
+    text-decoration:none;
+    font-size:16px;
+    opacity: 0.7;
+    transition:0.5s;
+}
+.footer-col ul li a:hover{
+    opacity:1;
+}
+.col p{
+    color:white;
+}
+.row hr{
+    opacity:0.7;
+}
