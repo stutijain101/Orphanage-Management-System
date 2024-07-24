@@ -68,7 +68,7 @@ The Orphanage Management System (Helping Hands) is designed to automate the acti
 ![WhatsApp Image 2024-07-23 at 5 22 58 PM](https://github.com/user-attachments/assets/550ef5f0-81d7-4d82-ac9a-f0e49f495d6f)
 ![WhatsApp Image 2024-07-23 at 5 22 57 PM (1)](https://github.com/user-attachments/assets/788c7aba-cd61-4e68-8e6b-3ed7cfe18723)
 ![WhatsApp Image 2024-07-23 at 5 22 57 PM](https://github.com/user-attachments/assets/5bb4902a-0211-4b6b-a897-87616635d49f)
-
+#### These were the few glimpses of the project.
 
 ## Feedback
 If you have any feedback, please reach out to us at stutijain2705@gmail.com
