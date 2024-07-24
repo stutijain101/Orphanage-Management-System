@@ -7,9 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-namespace project
+namespace FAQ
 {
+
+
     public partial class About
     {
     }
