@@ -1,0 +1,25 @@
+﻿.im {
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.h{
+    margin-left:450px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:36px;
+}
+.l {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.new{
+   height:40px;
+   border-radius:4px;
+   margin-left:10px;
+}
+.button {
+    height: 30px;
+    border-radius: 4px;
+    background-color:rgb(230, 212, 111);
+}
