@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FAQ {
+namespace Blog {
     
     
     public partial class Site_Mobile {
