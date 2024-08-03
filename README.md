@@ -1,5 +1,5 @@
 # HELPING HANDS - Orphanage Management System
-The Orphanage Management System (Helping Hands) is designed to automate the activities of an orphanage, providing a comprehensive platform for managing information and facilitating various orphanage-related functions. The system aims to increase the convenience for volunteers and donors by providing a digital platform for activities such as child sponsorship, adoption, volunteering, and providing hobby classes. Developed using ASP.NET with C#, MYSQL SERVER 2008 and much more.
+An Orphanage Management System (Helping Hands) is designed to automate the activities of an orphanage, providing a comprehensive platform for managing information and facilitating various orphanage-related functions. The system aims to increase the convenience for volunteers and donors by providing a digital platform for activities such as child sponsorship, adoption, volunteering, and providing hobby classes. Developed using ASP.NET with C#, MYSQL SERVER 2008 and much more.
 
 ## Features
 - User Registration and Login: Secure registration and login for volunteers and administrators.
